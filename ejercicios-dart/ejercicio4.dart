@@ -1,5 +1,5 @@
 void main() {
-  /*realizar el siguiente ejercicio en dar:
+  /*realizar el siguiente ejercicio en dart:
   un aprendiz recibe un subsidio base en el SENA
   recibe una comision del 10% de total de monitorias en 
   investigacion con SENNOVA, se desea saber cuanto ganara al mes*/
